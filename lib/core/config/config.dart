@@ -1,0 +1,9 @@
+// final String baseUrl = "http://192.168.1.10/projects/navid/public/api/";
+final String baseURL = "http://api.aserv.ir/api/";
+// final String baseUrl = "http://80.210.32.126:9090/projects/kogaizirek/public/api/";
+int timeOut = 7;
+int pageSize = 15;
+double borderRadius = 5.0;
+double spaceBetween = 10.0;
+double space = 3.0;
+int notAuthenticated = 401;
